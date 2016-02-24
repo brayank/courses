@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/brayank/courses.png?label=ready&title=Ready)](https://waffle.io/brayank/courses)
 ﻿# courses
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
